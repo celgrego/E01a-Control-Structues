@@ -1,66 +1,77 @@
 Open main1.py. Before running it, what do you expect this program to do? 
+i expect it to ask me my favorite color and allow me to put my imput.
 
 Now right click on the window and select “Run Python File in Terminal”. Click in the bottom panel, and answer the question. Describe what happened. 
+nothing after my answer happened.
 
 What do you think the program did with what you typed?
-
-
+it didnt have any instuction on what to do with my answer so it did nothing with it.
 
 Open main2.py. Before running it, describe how this is different than main1.py. 
+this one is asking for your favorite color then its telling me if its correct.
 
 What do you think the color = input() will do? 
+allow me to put in my input.
 
 Run the program in the terminal and answer the question. Did the program do what you expected?
-
-
+it printed if i was correct.
 
 Open main3.py. Before running it, describe how this is different than main2.py. 
+this one will tell me if im wrong.
 
 What is happening on lines 11–14? 
+its giving what to print if i say a curtain thing.
 
 Why are lines 12 and 14 indented? 
+because when you give if or else statements it indents for you.
 
 Run the program and answer the question. What happens if you don’t capitalize Red? 
+it will tell you you're wrong.
 
 What does this tell you about "color"?
-
-
+that it really specific on what it takes as an answer.
 
 Open main4.py. Before running it, describe how this is different than main2.py. 
+main2.py didnt tell you if you were wrong.
 
 What problem is this trying to solve? 
+so you dont have to have a capital letter for you answer.
 
 Run the program and answer the question. What happens if you use some other capitalization scheme (i.e., “RED” or “reD“)?
-
-
+it will tell you you're wrong.
 
 Open main5.py. What do you expect line 11 to do? 
+let you only put your answer in as a lower case or upper case letter.
 
 What problem is it trying to solve? 
+you dont have to put in extra code for it to be either or.
 
 Run the program and answer the question. What happens if you add spaces before or after the word (i.e., “  RED  “ or “ red”)?
-
+it will tell you're wrong.
 
 
 Open main6.py. How is line 11 different than main5.py? 
+ you added a strip.
 
-What would you guess .strip() is doing? 
+What would you guess .strip() is doing?
+thats off the extra around the word.
 
 Run the program and answer the question. Is there another way of writing “red” that will break this logic?
-
-
+no
 
 Open main7.py. Before running this program, how do you expect this to be different than main6.py? 
+this one will tell you if you are close or not.
 
 What is the purpose of line 11? 
+to strip the answer down the answer.
 
 Run the program and answer the question.
 
-
-
 Open main8.py. What is the purpose of line 11? 
+while the color is red print something
 
 Why are lines 12–19 indented? 
+it indents for you when you use if statements.
 
 Run the program. What would happen if line 12 were moved before line 11 (and no longer indented)? 
 
@@ -69,10 +80,13 @@ Make that change and run the program again. To end any Python program, you can t
 
 
 Open main9.py. What is happening on line 12? 
+its giving a while statement.
 
 What is the purpose of “count”? 
+to count the elements in the string.
 
 What is happening on line 22? 
+print the statement in that many trys 
 
 Run the program.
 
